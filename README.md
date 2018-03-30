@@ -5,4 +5,5 @@ Redirect WooCommerce Products to specific url for mobile users. It helps to redi
 If you face any issue using this plugin please let me know i will fix it accordingly.
 
 Thank you,
+
 Vignesh Pichamani.
