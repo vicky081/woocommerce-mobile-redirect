@@ -1,3 +1,4 @@
+<?php 
 
 /*
  * Plugin Name: WooCommerce Mobile Redirect for Product
@@ -6,7 +7,7 @@
  * Version: 1.0
  * Author: viky081
  * Author URI: https://profiles.wordpress.org/viky081
-
+ */
 
 function wc_49570125_register_meta_boxes() {
     add_meta_box('meta-box-id', __('Mobile Version URL', 'yourtextdomain'), 'wc_49570125_my_display_callback', 'product');
