@@ -6,7 +6,7 @@
  * Description: Redirect WooCommerce Products to Mobile Version of WooCommerce Products
  * Version: 1.0
  * Author: viky081
- * Author URI: https://profiles.wordpress.org/viky081
+ * Author URI: https://www.linkedin.com/in/vignesh-pichamani/
  */
 
 function wc_49570125_register_meta_boxes() {
